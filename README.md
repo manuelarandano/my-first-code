@@ -12,3 +12,4 @@ This is a practice repository where I am learning the fundamentals of web develo
 * Master the local Git workflow.
 * Understand the connection between local and remote repositories.
 * Create a basic landing page for a window and door business.
+* Workspace moved to local drive for better performance.
