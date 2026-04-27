@@ -14,3 +14,4 @@ This is a practice repository where I am learning the fundamentals of web develo
 * Create a basic landing page for a window and door business.
 * Workspace moved to local drive for better performance.
 * I have to change something to pull the project from GITHUB.
+* One last change to validate if the config was done correctly.
